@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.appcompat.widget.LinearLayoutCompat android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaper"
+    tools:context=".AddMoneyActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:text="ADD MONEY"
+        android:textSize="50sp"
+        android:textStyle="bold"
+        android:textColor="@color/purple_500"/>
+
+    <EditText
+        android:id="@+id/txtACNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_gravity="center"
+        android:hint="AC/Card Number"
+        android:inputType="textPersonName"
+        android:textColor="@color/white"/>
+
+    <EditText
+        android:id="@+id/AmountAdd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_gravity="center"
+        android:hint="Amount"
+        android:inputType="number"
+        android:textColor="@color/white"/>
+
+    <EditText
+        android:id="@+id/AddMoneyPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="PIN number"
+        android:inputType="textPassword"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/btnAdd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ADD MONEY"
+        android:layout_gravity="center"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

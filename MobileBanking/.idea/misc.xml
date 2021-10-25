@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.2203125" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.13119143239625167" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/layout-w936dp/activity_login.xml" value="0.13080601092896174" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/layout/activity_add_money.xml" value="0.1168032786885246" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/layout/activity_confirm.xml" value="0.1598731884057971" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/layout/activity_login.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/layout/activity_send_money.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/layout/activity_success.xml" value="0.1168032786885246" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/layout/confirm_fragemnt_fragment.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/layout/confirm_fragment.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/layout/fragment_dashboard.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/layout/fragment_home.xml" value="0.17346014492753623" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/layout/main_activity.xml" value="0.1" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15694444444444444" />
+        <entry key="..\:/Users/AL-AMIN HOSSAIN/Desktop/CODES/ANDROID/MobileBanking/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15694444444444444" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
